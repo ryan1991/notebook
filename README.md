@@ -1,4 +1,4 @@
-# blog
-Github Blog
+# Notebook
+Github Notebook
 
-博客地址：https://github.com/xiayulei/blog/issues
+地址：https://github.com/xiayulei/notebook/issues
